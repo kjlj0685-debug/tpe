@@ -1,0 +1,16 @@
+# Gradle build files
+.gradle/
+build/
+bin/
+
+# Gradle wrapper artifacts
+gradle-8.7/
+gradle-8.7-bin.zip
+wrapper-gradle-8.7-bin.zip
+
+# IDE files
+.vscode/
+
+# OS files
+Thumbs.db
+.DS_Store
